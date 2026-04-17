@@ -1,3 +1,41 @@
+<div align="center">
+
+# 📖 [The RAG Techniques Book is HERE](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme&click=book-buy-amazon-title&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=The%20RAG%20Techniques%20Book%20is%20HERE)
+
+### The super extended version of this repository
+
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme&click=book-buy-amazon-image&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=Best%20Seller%20Image"><img src="images/rag_book_best_seller.png" alt="#1 Best Seller in Generative AI on Amazon - Click to buy" width="600"></a>
+
+**#1 Best Seller on Amazon in Generative AI**
+
+Built on top of everything in this repo, the book goes far deeper: the **intuition** behind every technique, **side-by-side comparisons** of when each one wins (and when it quietly fails), and **illustrations** that make the tricky parts finally click.
+
+### ⏳ **Free with Kindle Unlimited** or **$0.99** launch price
+
+The price goes up once the launch window closes. Readers who grab it now lock in the lowest price it will ever have, and get the same material that took months of research, writing, and iteration to put together.
+
+### 👉 [**Get the book on Amazon before the price changes**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme&click=book-buy-amazon-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=Get%20the%20book%20on%20Amazon%20before%20the%20price%20changes)
+
+</div>
+
+---
+
+
+<div align="center">
+
+### 🔥 This week only: companion book on Kindle Countdown Deal
+
+The series prerequisite, **Prompt Engineering: Master the Art of AI Interaction**, is on a Kindle Countdown Deal at **$2.99** through April 21. Strengthen your prompting foundations before working through the RAG techniques.
+
+### 👉 [**Get Prompt Engineering at countdown pricing**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme&click=book-buy-pe-countdown&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DZ85RPB5%3Ftag%3Ddiamantai-ragrm-20&text=Get%20Prompt%20Engineering%20at%20countdown%20pricing)
+
+</div>
+
+---
+
+
+
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nir-diamant-759323134/)
 [![Twitter](https://img.shields.io/twitter/follow/NirDiamantAI?label=Follow%20@NirDiamantAI&style=social)](https://twitter.com/NirDiamantAI)
@@ -67,14 +105,14 @@ Welcome to one of the most comprehensive and dynamic collections of Retrieval-Au
 </tr>
 </table>
 
-[![Subscribe to DiamantAI Newsletter](images/subscribe-button.svg)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
+[![Subscribe to DiamantAI Newsletter](images/subscribe-button.svg)](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme&click=newsletter-subscribe-button&target=https%3A%2F%2Fdiamantai.substack.com%2F%3Fr%3D336pe4%26utm_campaign%3Dpub-share-checklist&text=Subscribe%20to%20DiamantAI%20Newsletter)
 
 *Join over 50,000 AI enthusiasts getting unique cutting-edge insights and free tutorials!* ***Plus, subscribers get exclusive early access and special 33% discounts to my book and the upcoming RAG Techniques course!***
 </div>
 
 
 
-[![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
+[![DiamantAI's newsletter](images/substack_image.png)](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme&click=newsletter-subscribe-image&target=https%3A%2F%2Fdiamantai.substack.com%2F%3Fr%3D336pe4%26utm_campaign%3Dpub-share-checklist&text=DiamantAI%27s%20newsletter)
 
 
 ## Introduction
@@ -116,42 +154,45 @@ Whether you're an expert or just starting out, your insights can shape the futur
 
 Explore our extensive list of cutting-edge RAG techniques:
 
+> **Recently added:** MemoRAG (memory-augmented retrieval), End-to-End RAG Evaluation, Open-RAG-Eval, JSON RAG. **42 notebooks** and growing.
+
 | # | Category | Technique | View |
 |---|----------|-----------|------|
-| 1 | ⭐ Key Collaboration | Agentic RAG with Contextual AI | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/Agentic_RAG.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/Agentic_RAG.ipynb) |
-| 2 | Foundational 🌱 | Basic RAG | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/simple_rag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/simple_rag.ipynb) |
-| 3 | Foundational 🌱 | RAG with CSV Files | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/simple_csv_rag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/simple_csv_rag.ipynb) |
-| 4 | Foundational 🌱 | Reliable RAG | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/reliable_rag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/reliable_rag.ipynb) |
-| 5 | Foundational 🌱 | Optimizing Chunk Sizes | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/choose_chunk_size.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/choose_chunk_size.ipynb) |
-| 6 | Foundational 🌱 | Proposition Chunking | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/proposition_chunking.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/proposition_chunking.ipynb) |
-| 7 | Query Enhancement 🔍 | Query Transformations | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/query_transformations.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/query_transformations.ipynb) |
-| 8 | Query Enhancement 🔍 | HyDE (Hypothetical Document Embedding) | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/HyDe_Hypothetical_Document_Embedding.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/HyDe_Hypothetical_Document_Embedding.ipynb) |
-| 9 | Query Enhancement 🔍 | HyPE (Hypothetical Prompt Embedding) | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/HyPE_Hypothetical_Prompt_Embeddings.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/HyPE_Hypothetical_Prompt_Embeddings.ipynb) |
-| 10 | Context Enrichment 📚 | Contextual Chunk Headers | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/contextual_chunk_headers.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/contextual_chunk_headers.ipynb) |
-| 11 | Context Enrichment 📚 | Relevant Segment Extraction | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/relevant_segment_extraction.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/relevant_segment_extraction.ipynb) |
-| 12 | Context Enrichment 📚 | Context Window Enhancement | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/context_enrichment_window_around_chunk.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/context_enrichment_window_around_chunk.ipynb) |
-| 13 | Context Enrichment 📚 | Semantic Chunking | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/semantic_chunking.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/semantic_chunking.ipynb) |
-| 14 | Context Enrichment 📚 | Contextual Compression | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/contextual_compression.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/contextual_compression.ipynb) |
-| 15 | Context Enrichment 📚 | Document Augmentation | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/document_augmentation.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/document_augmentation.ipynb) |
-| 16 | Advanced Retrieval 🚀 | Fusion Retrieval | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/fusion_retrieval.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/fusion_retrieval.ipynb) |
-| 17 | Advanced Retrieval 🚀 | Reranking | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/reranking.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/reranking.ipynb) |
-| 18 | Advanced Retrieval 🚀 | Multi-faceted Filtering | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/multi_faceted_filtering.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/multi_faceted_filtering.ipynb) |
-| 19 | Advanced Retrieval 🚀 | Hierarchical Indices | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/hierarchical_indices.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/hierarchical_indices.ipynb) |
-| 20 | Advanced Retrieval 🚀 | Ensemble Retrieval | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/ensemble_retrieval.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/ensemble_retrieval.ipynb) |
-| 21 | Advanced Retrieval 🚀 | Dartboard Retrieval | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/dartboard.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/dartboard.ipynb) |
-| 22 | Advanced Retrieval 🚀 | Multi-modal RAG with Captioning | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/multi_model_rag_with_captioning.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/multi_model_rag_with_captioning.ipynb) |
-| 23 | Iterative Techniques 🔁 | Retrieval with Feedback Loop | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/retrieval_with_feedback_loop.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/retrieval_with_feedback_loop.ipynb) |
-| 24 | Iterative Techniques 🔁 | Adaptive Retrieval | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/adaptive_retrieval.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/adaptive_retrieval.ipynb) |
-| 25 | Iterative Retrieval 🔄 | Iterative Retrieval | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/iterative_retrieval.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/iterative_retrieval.ipynb) |
-| 26 | Evaluation 📊 | DeepEval | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/evaluation/evaluation_deep_eval.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/evaluation/evaluation_deep_eval.ipynb) |
-| 27 | Evaluation 📊 | GroUSE | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/evaluation/evaluation_grouse.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/evaluation/evaluation_grouse.ipynb) |
-| 28 | Explainability 🔬 | Explainable Retrieval | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/explainable_retrieval.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/explainable_retrieval.ipynb) |
-| 29 | Advanced Architecture 🏗️ | Graph RAG with LangChain | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/graph_rag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/graph_rag.ipynb) |
-| 30 | Advanced Architecture 🏗️ | Microsoft GraphRAG | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/Microsoft_GraphRag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/Microsoft_GraphRag.ipynb) |
-| 31 | Advanced Architecture 🏗️ | RAPTOR | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/raptor.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/raptor.ipynb) |
-| 32 | Advanced Architecture 🏗️ | Self-RAG | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/self_rag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/self_rag.ipynb) |
-| 33 | Advanced Architecture 🏗️ | Corrective RAG (CRAG) | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/crag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/crag.ipynb) |
-| 34 | Special Technique 🌟 | Sophisticated Controllable Agent | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/Controllable-RAG-Agent) |
+| 1 | Foundational 🌱 | Basic RAG | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/simple_rag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/simple_rag.ipynb) |
+| 2 | Foundational 🌱 | RAG with CSV Files | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/simple_csv_rag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/simple_csv_rag.ipynb) |
+| 3 | Foundational 🌱 | Reliable RAG | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/reliable_rag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/reliable_rag.ipynb) |
+| 4 | Foundational 🌱 | Optimizing Chunk Sizes | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/choose_chunk_size.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/choose_chunk_size.ipynb) |
+| 5 | Foundational 🌱 | Proposition Chunking | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/proposition_chunking.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/proposition_chunking.ipynb) |
+| 6 | Query Enhancement 🔍 | Query Transformations | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/query_transformations.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/query_transformations.ipynb) |
+| 7 | Query Enhancement 🔍 | HyDE (Hypothetical Document Embedding) | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/HyDe_Hypothetical_Document_Embedding.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/HyDe_Hypothetical_Document_Embedding.ipynb) |
+| 8 | Query Enhancement 🔍 | HyPE (Hypothetical Prompt Embedding) | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/HyPE_Hypothetical_Prompt_Embeddings.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/HyPE_Hypothetical_Prompt_Embeddings.ipynb) |
+| 9 | Context Enrichment 📚 | Contextual Chunk Headers | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/contextual_chunk_headers.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/contextual_chunk_headers.ipynb) |
+| 10 | Context Enrichment 📚 | Relevant Segment Extraction | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/relevant_segment_extraction.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/relevant_segment_extraction.ipynb) |
+| 11 | Context Enrichment 📚 | Context Window Enhancement | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/context_enrichment_window_around_chunk.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/context_enrichment_window_around_chunk.ipynb) |
+| 12 | Context Enrichment 📚 | Semantic Chunking | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/semantic_chunking.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/semantic_chunking.ipynb) |
+| 13 | Context Enrichment 📚 | Contextual Compression | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/contextual_compression.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/contextual_compression.ipynb) |
+| 14 | Context Enrichment 📚 | Document Augmentation | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/document_augmentation.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/document_augmentation.ipynb) |
+| 15 | Advanced Retrieval 🚀 | Fusion Retrieval | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/fusion_retrieval.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/fusion_retrieval.ipynb) |
+| 16 | Advanced Retrieval 🚀 | Reranking | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/reranking.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/reranking.ipynb) |
+| 17 | Advanced Retrieval 🚀 | Multi-faceted Filtering | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/multi_faceted_filtering.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/multi_faceted_filtering.ipynb) |
+| 18 | Advanced Retrieval 🚀 | Hierarchical Indices | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/hierarchical_indices.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/hierarchical_indices.ipynb) |
+| 19 | Advanced Retrieval 🚀 | Dartboard Retrieval | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/dartboard.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/dartboard.ipynb) |
+| 20 | Advanced Retrieval 🚀 | Multi-modal RAG with Captioning | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/multi_model_rag_with_captioning.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/multi_model_rag_with_captioning.ipynb) |
+| 21 | Iterative Techniques 🔁 | Retrieval with Feedback Loop | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/retrieval_with_feedback_loop.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/retrieval_with_feedback_loop.ipynb) |
+| 22 | Iterative Techniques 🔁 | Adaptive Retrieval | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/adaptive_retrieval.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/adaptive_retrieval.ipynb) |
+| 23 | Evaluation 📊 | DeepEval | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/evaluation/evaluation_deep_eval.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/evaluation/evaluation_deep_eval.ipynb) |
+| 24 | Evaluation 📊 | GroUSE | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/evaluation/evaluation_grouse.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/evaluation/evaluation_grouse.ipynb) |
+| 25 | Explainability 🔬 | Explainable Retrieval | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/explainable_retrieval.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/explainable_retrieval.ipynb) |
+| 26 | Advanced Architecture 🏗️ | Graph RAG with LangChain | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/graph_rag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/graph_rag.ipynb) |
+| 27 | Advanced Architecture 🏗️ | Microsoft GraphRAG | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/Microsoft_GraphRag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/Microsoft_GraphRag.ipynb) |
+| 28 | Advanced Architecture 🏗️ | RAPTOR | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/raptor.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/raptor.ipynb) |
+| 29 | Advanced Architecture 🏗️ | Agentic RAG with Contextual AI | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/Agentic_RAG.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/Agentic_RAG.ipynb) |
+| 30 | Advanced Architecture 🏗️ | Self-RAG | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/self_rag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/self_rag.ipynb) |
+| 31 | Advanced Architecture 🏗️ | Corrective RAG (CRAG) | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/crag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/crag.ipynb) |
+| 32 | Evaluation 📊 | End-to-End RAG Evaluation | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/evaluation/end-2-end_rag_evaluation.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/evaluation/end-2-end_rag_evaluation.ipynb) |
+| 33 | Evaluation 📊 | Open-RAG-Eval | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/evaluation/open-rag-eval-example.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/evaluation/open-rag-eval-example.ipynb) |
+| 34 | Advanced 🔬 | MemoRAG | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/memorag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/memorag.ipynb) |
+| 35 | Special Technique 🌟 | Sophisticated Controllable Agent | [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/Controllable-RAG-Agent) |
 
 ### 🌱 Foundational RAG Techniques
 
@@ -202,6 +243,15 @@ Explore our extensive list of cutting-edge RAG techniques:
    #### Implementation 🛠️
    - 💪 **Proposition Generation:** The LLM is used in conjunction with a custom prompt to generate factual statements from the document chunks.
    - ✅ **Quality Checking:** The generated propositions are passed through a grading system that evaluates accuracy, clarity, completeness, and conciseness.
+
+6. **[Simple RAG with JSON](https://github.com/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/json_rag.ipynb)**
+
+    #### Overview 🔎
+    RAG with JSON documents is a method of using JSON files to create a retrieval and question answering system.
+
+    #### Implementation 🛠️
+    - 📄 Data Loading & Extraction: JSON data with multiple fields per entry is loaded, and most relevant text fields are combined to generate an embedding.
+    - 🔍 Retrieval: The system retrieves the most relevant JSON entries based on the user's query.
 
 #### Additional Resources 📚
    - **[The Propositions Method: Enhancing Information Retrieval for AI Systems](https://open.substack.com/pub/diamantai/p/the-propositions-method-enhancing?r=336pe4&utm_campaign=post&utm_medium=web)** - A comprehensive blog post exploring the benefits and implementation of proposition chunking in RAG systems.
@@ -368,14 +418,6 @@ Explore our extensive list of cutting-edge RAG techniques:
     #### Additional Resources 📚
     - **[Hierarchical Indices: Enhancing RAG Systems](https://open.substack.com/pub/diamantai/p/hierarchical-indices-enhancing-rag?r=336pe4&utm_campaign=post&utm_medium=web)** - A comprehensive blog post exploring the power of hierarchical indices in enhancing RAG system performance.
 
-19. Ensemble Retrieval 🎭
-
-    #### Overview 🔎
-    Combining multiple retrieval models or techniques for more robust and accurate results.
-
-    #### Implementation 🛠️
-    Apply different embedding models or retrieval algorithms and use voting or weighting mechanisms to determine the final set of retrieved documents.
-
 20. Dartboard Retrieval 🎯
     - **LangChain**: [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/dartboard.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/dartboard.ipynb) 
     #### Overview 🔎
@@ -417,14 +459,6 @@ Explore our extensive list of cutting-edge RAG techniques:
     #### Implementation 🛠️
     Classify queries into different categories and use tailored retrieval strategies for each, considering user context and preferences.
 
-24. Iterative Retrieval 🔄
-
-    #### Overview 🔎
-    Performing multiple rounds of retrieval to refine and enhance result quality.
-
-    #### Implementation 🛠️
-    Use the LLM to analyze initial results and generate follow-up queries to fill in gaps or clarify information.
-
 ### 📊 Evaluation
 
 25. **DeepEval Evaluation**: [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/evaluation/evaluation_deep_eval.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/evaluation/evaluation_deep_eval.ipynb) | Comprehensive RAG system evaluation |
@@ -444,6 +478,34 @@ Explore our extensive list of cutting-edge RAG techniques:
     #### Implementation 🛠️
     Use the `grouse` package to evaluate contextually-grounded LLM generations with GPT-4 on the 6 metrics of the GroUSE framework and use unit tests to evaluate a custom Llama 3.1 405B evaluator.
     
+
+27. **End-to-End RAG Evaluation**: [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/evaluation/end-2-end_rag_evaluation.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/evaluation/end-2-end_rag_evaluation.ipynb) | Complete evaluation pipeline |
+
+    #### Overview 🔎
+    A comprehensive tutorial covering evaluation criteria selection, LLM-as-a-judge metrics, RAGAS integration, and full evaluation pipeline assembly.
+
+    #### Implementation 🛠️
+    - Build custom metrics for completeness, relevance, and hallucination detection using the RAG-12000 dataset.
+
+28. **Open-RAG-Eval**: [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/evaluation/open-rag-eval-example.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/evaluation/open-rag-eval-example.ipynb) | Open-source RAG evaluation |
+
+    #### Overview 🔎
+    Demonstrates the open-rag-eval library for evaluation using UMBRELA scoring, AutoNuggetizer, and citation/hallucination detection.
+
+    #### Implementation 🛠️
+    - Evaluate RAG pipelines using multiple open-source metrics against the FIQA financial dataset.
+
+### 🧠 Memory-Augmented Retrieval
+
+29. **MemoRAG**: [<img src="https://img.shields.io/badge/GitHub-View-blue" height="20">](https://github.com/NirDiamant/RAG_TECHNIQUES/blob/main/all_rag_techniques/memorag.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="20">](https://colab.research.google.com/github/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/memorag.ipynb) | Memory-augmented retrieval |
+
+    #### Overview 🔎
+    A from-scratch implementation of MemoRAG - a memory-augmented RAG system with key-value pair extraction, surrogate query generation, and multi-query retrieval.
+
+    #### Implementation 🛠️
+    - Build a complete MemoryStore with FAISS-based retrieval, surrogate queries, and comparison evaluation against standard RAG.
+
+> 📖 **Want to understand all these techniques visually?** [RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=all-rag-techniques--readme-book-cta&click=book-buy-amazon-readme-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragnb-20&text=RAG%20Made%20Simple) covers 22 core RAG techniques through diagrams and plain-English explanations. Free with Kindle Unlimited.
 
 ### 🔬 Explainability and Transparency
 
@@ -558,6 +620,16 @@ To begin implementing these advanced RAG techniques in your projects:
    ```
 3. Follow the detailed implementation guide in each technique's directory.
 
+## 📚 Recommended reading
+
+*This list contains Amazon affiliate links. As an Amazon Associate I earn from qualifying purchases. Every book below is one I've read and genuinely recommend to engineers working in this space. The companion book to this repo is featured separately at the top of this README.*
+
+- [Build a Large Language Model (From Scratch)](https://www.amazon.com/dp/1633437167?tag=diamantai-ragrm-20) by Sebastian Raschka. Build a GPT-style model end to end in PyTorch.
+- [AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/dp/1098166302?tag=diamantai-ragrm-20) by Chip Huyen. Canonical reference for productionizing foundation-model apps.
+- [Hands-On Large Language Models](https://www.amazon.com/dp/1098150961?tag=diamantai-ragrm-20) by Jay Alammar and Maarten Grootendorst. Visual, practical LLM walkthroughs.
+- [Natural Language Processing with Transformers](https://www.amazon.com/dp/1098136799?tag=diamantai-ragrm-20) by Lewis Tunstall, Leandro von Werra, and Thomas Wolf. From the Hugging Face team.
+- [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969?tag=diamantai-ragrm-20) by Chip Huyen. ML systems in production, still the standard reference.
+
 ## Contributing
 
 We welcome contributions from the community! If you have a new technique or improvement to suggest:
@@ -582,4 +654,4 @@ This project is licensed under a custom non-commercial license - see the [LICENS
 
 ![](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme)
 
-Keywords: RAG, Retrieval-Augmented Generation, NLP, AI, Machine Learning, Information Retrieval, Natural Language Processing, LLM, Embeddings, Semantic Search
+Keywords: RAG, Retrieval-Augmented Generation, NLP, AI, Machine Learning, Information Retrieval, Natural Language Processing, LLM, Embeddings, Semantic Search, PydanticAI, Agent Frameworks

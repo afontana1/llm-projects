@@ -10,6 +10,36 @@
 
 Welcome to one of the most extensive and dynamic collections of Prompt Engineering tutorials and implementations available today. This repository serves as a comprehensive resource for learning, building, and sharing prompt engineering techniques, ranging from basic concepts to advanced strategies for leveraging large language models.
 
+<div align="center">
+
+## 📖 From the Same Author
+
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-amazon-image&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-pe-20&text=Best%20Seller%20Image"><img src="images/rag_book_best_seller.png" alt="#1 Best Seller in Generative AI on Amazon - Click to buy" width="500"></a>
+
+**[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-amazon-title&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-pe-20&text=RAG%20Made%20Simple)** — **#1 Best Seller on Amazon in Generative AI.**
+22 RAG techniques with intuition, comparisons, and illustrations. **Free with Kindle Unlimited** or **$0.99** launch price (goes up soon).
+
+### 👉 [**Get the book on Amazon**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-amazon-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-pe-20&text=Get%20the%20book%20on%20Amazon)
+
+</div>
+
+
+> **22 hands-on tutorials** covering everything from basic prompt templates to advanced techniques like chain-of-thought, self-consistency, and tree-of-thought prompting.
+
+## 🎯 Sponsors
+
+<div align="center">
+
+<a href="https://coderabbit.link/nir">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/coderabbit_Dark_Type_Mark.png">
+    <img src="images/coderabbit_Light_Type_Mark_Orange.png" height="60" alt="Coderabbit">
+  </picture>
+</a>
+
+</div>
+
+
 ## 📫 Stay Updated!
 
 <div align="center">
@@ -23,7 +53,7 @@ Welcome to one of the most extensive and dynamic collections of Prompt Engineeri
 
 [![Subscribe to DiamantAI Newsletter](images/subscribe-button.svg)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
 
-*Join over 10,000 of AI enthusiasts getting unique cutting-edge insights and free tutorials!* ***Plus, subscribers get exclusive early access and special discounts to our upcoming RAG Techniques course!***
+*Join over 50,000 AI enthusiasts getting unique cutting-edge insights and free tutorials!* ***Plus, subscribers get exclusive early access and special discounts to our upcoming RAG Techniques course!***
 </div>
 
 [![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
@@ -36,7 +66,32 @@ Our goal is to provide a valuable resource for everyone - from beginners taking 
 
 Furthermore, this repository serves as a platform for showcasing innovative prompt engineering techniques. Whether you've developed a novel approach or found an innovative application for existing techniques, we encourage you to share your work with the community.
 
+## 📖 Get the Fully Explained Version of This Repo
+
+> 🔥 **THIS WEEK ONLY (April 15-21)**: The Kindle edition is on a Kindle Countdown Deal at **$2.99**. Grab it now: [**Get Prompt Engineering at countdown pricing**](https://www.amazon.com/dp/B0DZ85RPB5?tag=diamantai-pe-20)
+
+This repository contains **22 hands-on Jupyter Notebook tutorials** covering **key prompt engineering techniques**.
+If you want to go **deeper** with **full explanations, intuitive insights, and structured exercises**, check out the **expanded version in book format**:
+
+📚 **Prompt Engineering from Zero to Hero**
+- 📖 **All 22 techniques from this repo**, fully explained in depth
+- 🧠 **Step-by-step breakdowns** of key concepts & best practices
+- 🏋️ **Hands-on exercises** to sharpen your skills
+- 🎯 **Designed for learners who want a structured, guided approach**
+- 📄 **Instant access on any device – computer, tablet, or phone**
+
+Available on:
+- 📕 **[Amazon Kindle](https://www.amazon.com/dp/B0DZ85RPB5)** — $9.99
+- 📗 **[Amazon Paperback](https://www.amazon.com/dp/B0DZ9RVKMJ)** — $24.99
+- 📄 **[Gumroad (PDF)](https://nirdiamant.gumroad.com/l/mtxrfk)** — Full PDF version
+
+💡 **Subscribers to the DiamantAI newsletter receive an exclusive 33% (!) discount on the book.**
+
+
+
 ## Related Projects
+
+🚀 Level up with my **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** repository. It delivers horizontal, code-first tutorials that cover every tool and step in the lifecycle of building production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches, making it the smartest place to start if you're serious about shipping agents to production.
 
 📚 Explore my **[comprehensive guide on RAG techniques](https://github.com/NirDiamant/RAG_Techniques)** to learn how to enhance AI systems with external knowledge retrieval, complementing language model capabilities with rich, up-to-date information.
 
@@ -65,6 +120,31 @@ Whether you're a novice eager to learn or an expert ready to share your knowledg
 ## Prompt Engineering Techniques
 
 Explore our extensive list of prompt engineering techniques, ranging from basic to advanced:
+
+| # | Category | Technique | Description |
+|---|----------|-----------|-------------|
+| 1 | 🎓 **Fundamental Concepts** | [Introduction to Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/intro-prompt-engineering-lesson.ipynb) | Comprehensive introduction to fundamental concepts of prompt engineering |
+| 2 | 🎓 **Fundamental Concepts** | [Basic Prompt Structures](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/basic-prompt-structures.ipynb) | Exploration of single-turn and multi-turn prompt structures |
+| 3 | 🎓 **Fundamental Concepts** | [Prompt Templates and Variables](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-templates-variables-jinja2.ipynb) | Creating and using prompt templates with variables |
+| 4 | 🔧 **Core Techniques** | [Zero-Shot Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/zero-shot-prompting.ipynb) | Performing tasks without specific examples |
+| 5 | 🔧 **Core Techniques** | [Few-Shot Learning](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/few-shot-learning.ipynb) | Learning from a small number of examples |
+| 6 | 🔧 **Core Techniques** | [Chain of Thought (CoT)](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/cot-prompting.ipynb) | Step-by-step reasoning processes |
+| 7 | 🎯 **Advanced Strategies** | [Self-Consistency](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/self-consistency.ipynb) | Multiple reasoning paths and result aggregation |
+| 8 | 🎯 **Advanced Strategies** | [Constrained Generation](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/constrained-guided-generation.ipynb) | Setting up output constraints |
+| 9 | 🎯 **Advanced Strategies** | [Role Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/role-prompting.ipynb) | Assigning specific roles to AI models |
+| 10 | 🚀 **Advanced Implementations** | [Task Decomposition](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/task-decomposition-prompts.ipynb) | Breaking down complex tasks |
+| 11 | 🚀 **Advanced Implementations** | [Prompt Chaining](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-chaining-sequencing.ipynb) | Connecting multiple prompts |
+| 12 | 🚀 **Advanced Implementations** | [Instruction Engineering](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/instruction-engineering-notebook.ipynb) | Crafting clear instructions |
+| 13 | ⚡ **Optimization** | [Prompt Optimization](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-optimization-techniques.ipynb) | A/B testing and refinement |
+| 14 | ⚡ **Optimization** | [Handling Ambiguity](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/ambiguity-clarity.ipynb) | Resolving ambiguous prompts |
+| 15 | ⚡ **Optimization** | [Length Management](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-length-complexity-management.ipynb) | Managing prompt complexity |
+| 16 | 🛠️ **Specialized Applications** | [Negative Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/negative-prompting.ipynb) | Avoiding undesired outputs |
+| 17 | 🛠️ **Specialized Applications** | [Prompt Formatting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-formatting-structure.ipynb) | Various prompt formats |
+| 18 | 🛠️ **Specialized Applications** | [Task-Specific Prompts](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/specific-task-prompts.ipynb) | Prompts for specific tasks |
+| 19 | 🌍 **Advanced Applications** | [Multilingual Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/multilingual-prompting.ipynb) | Cross-lingual techniques |
+| 20 | 🌍 **Advanced Applications** | [Ethical Considerations](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/ethical-prompt-engineering.ipynb) | Bias avoidance and inclusivity |
+| 21 | 🌍 **Advanced Applications** | [Prompt Security](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-security-and-safety.ipynb) | Preventing injections |
+| 22 | 🌍 **Advanced Applications** | [Effectiveness Evaluation](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/evaluating-prompt-effectiveness.ipynb) | Evaluating prompt performance |
 
 ### 🌱 Fundamental Concepts
 
@@ -269,6 +349,16 @@ To begin exploring and implementing prompt engineering techniques:
    cd all_prompt_engineering_techniques
    ```
 3. Follow the detailed implementation guide in each technique's notebook.
+
+## 📚 Recommended reading
+
+*This list contains Amazon affiliate links. As an Amazon Associate I earn from qualifying purchases. Every book below is one I've read and genuinely recommend to engineers working in this space. The companion book to this repo is featured separately at the top of this README.*
+
+- [Build a Large Language Model (From Scratch)](https://www.amazon.com/dp/1633437167?tag=diamantai-pe-20) by Sebastian Raschka. Build a GPT-style model end to end in PyTorch.
+- [AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/dp/1098166302?tag=diamantai-pe-20) by Chip Huyen. Canonical reference for productionizing foundation-model apps.
+- [Hands-On Large Language Models](https://www.amazon.com/dp/1098150961?tag=diamantai-pe-20) by Jay Alammar and Maarten Grootendorst. Visual, practical LLM walkthroughs.
+- [Natural Language Processing with Transformers](https://www.amazon.com/dp/1098136799?tag=diamantai-pe-20) by Lewis Tunstall, Leandro von Werra, and Thomas Wolf. From the Hugging Face team.
+- [Designing Machine Learning Systems](https://www.amazon.com/dp/1098107969?tag=diamantai-pe-20) by Chip Huyen. ML systems in production, still the standard reference.
 
 ## Contributing
 

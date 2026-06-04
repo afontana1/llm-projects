@@ -43,6 +43,7 @@
 9. [mcp-openai](https://github.com/S1M0N38/mcp-openai)
 10. [supergateway](https://github.com/supercorp-ai/supergateway)
 11. [biomcp](https://github.com/genomoncology/biomcp)
+12. [AWS MCP](https://github.com/awslabs/mcp)
 
 ### MCP Servers
 
@@ -151,6 +152,9 @@
 65. [agent-squad](https://github.com/awslabs/agent-squad)
 66. [agentscope](https://github.com/modelscope/agentscope)
 67. [openai-agents-python](https://github.com/openai/openai-agents-python)
+68. [Agentcore](https://github.com/awslabs/agentcore-samples/tree/main)
+69. [Sample Agentic Framework on AWS](https://github.com/aws-samples/sample-agentic-frameworks-on-aws)
+70. [guidance-for-multi-agent-orchestration-using-bedrock-agentcore-on-aws](https://github.com/aws-solutions-library-samples/guidance-for-multi-agent-orchestration-using-bedrock-agentcore-on-aws)
 
 ## Text to SQL
 
@@ -210,6 +214,7 @@
 - [gpt-rag-agentic](https://github.com/Azure/gpt-rag-agentic)
 - [AgenticRag-Survey](https://github.com/asinghcsu/AgenticRAG-Survey)
 - [deep-searcher](https://github.com/zilliztech/deep-searcher)
+- [langchain-embeddings](https://github.com/build-on-aws/langchain-embeddings)
 
 1. [VectorVerse](https://github.com/abhishek-ch/VectorVerse)
 2. [lancedb](https://github.com/lancedb/lancedb)

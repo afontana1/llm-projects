@@ -1,0 +1,16 @@
+# Ignore
+__pycache__/
+*.py[cod]
+*.swp
+.DS_Store
+.idea
+.env
+dist
+
+# Ignore egg-info directories
+*.egg-info/
+
+# Ignore build artifacts
+built/
+bdist.win-amd64/
+lib/

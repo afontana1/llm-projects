@@ -1,6 +1,8 @@
 # LLM Resources for Building Tools
 
 - [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+- [Context Engineering for Multi Agent Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
+- [12 Factor Agents](https://github.com/humanlayer/12-factor-agents)
 
 ## AI Based Data Wrangling Tools
 
@@ -81,6 +83,7 @@
 - [A2A](https://github.com/a2aproject/A2A)
 - [adk-samples](https://github.com/google/adk-samples)
 - [awesome-data-agents](https://github.com/HKUSTDial/awesome-data-agents)
+- [memora](https://github.com/agentic-box/memora)
 
 1. [crewAI](https://github.com/crewAIInc/crewAI)
 2. [autogen](https://github.com/microsoft/autogen)
@@ -178,6 +181,7 @@
 - [awesome-rag](https://github.com/Danielskry/Awesome-RAG)
 - [RAGHub](https://github.com/Andrew-Jang/RAGHub)
 - [RAG-Anything](https://github.com/HKUDS/RAG-Anything)
+- [awesome-search](https://github.com/frutik/awesome-search)
 
 1. [haystack](https://github.com/deepset-ai/haystack)
 2. [ragflow](https://github.com/infiniflow/ragflow)

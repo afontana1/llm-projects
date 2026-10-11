@@ -66,6 +66,7 @@
 
 ## Agent Frameworks
 
+- [Agentic LLM Systems and Memory-Augmented Architectures](https://apxml.com/courses/agentic-llm-memory-architectures)
 - [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 - [llm-agents overview](https://www.promptingguide.ai/research/llm-agents)
 - [awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)
